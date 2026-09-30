@@ -1,3 +1,4 @@
+import java.util.*;
 public class Factorial {
 
     public static long calculate(int n) {
